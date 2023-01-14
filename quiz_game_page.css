@@ -1,0 +1,14 @@
+body {
+    background:url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#output {
+    background-color:white ;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
